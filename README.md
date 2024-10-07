@@ -1,4 +1,4 @@
-# Shopping Assistant for Visually Impaired Usersssssss
+# Shopping Assistant for Visually Impaired Users
 
 A Flutter-based mobile application designed to improve the shopping experience for partially visually impaired individuals. This app integrates various accessibility features, including product identification using TensorFlow Lite, video calling using ZEGOCLOUD, and the ability to create community posts and record emergency voice notes.
 
