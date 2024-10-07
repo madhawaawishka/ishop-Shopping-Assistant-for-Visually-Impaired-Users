@@ -1,0 +1,15 @@
+0 Asparagus
+1 Aubergine
+2 Brown Cap Mushroom
+3 Cabbage
+4 Carrots
+5 Cucumber
+6 Garlic
+7 Leek
+8 Onion
+9 Green Bell Pepper
+10 Orange Bell Pepper
+11 Yellow Bell Pepper
+12 Potato
+13 Sweet Potato
+14 Tomato

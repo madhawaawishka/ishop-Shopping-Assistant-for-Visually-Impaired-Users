@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968112348329",
+    "project_id": "ishop-spm",
+    "storage_bucket": "ishop-spm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968112348329:android:d96c0d3623c816435e9db8",
+        "android_client_info": {
+          "package_name": "com.example.spm_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMfQC451SgKCS2jk7wTkWbRKN4hdNdos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

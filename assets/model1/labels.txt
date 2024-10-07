@@ -1,0 +1,11 @@
+0 Apple
+1 Avocado
+2 Banana
+3 Lemon
+4 Lime
+5 Mango
+6 Watermelon
+7 Orange
+8 Papaya
+9 Passion Fruit
+10 Pineapple
